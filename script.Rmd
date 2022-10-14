@@ -5,3 +5,8 @@ editor_options:
 ---
 
 # Aquí vamos a desarollar el análisis de datos. 
+
+```{r}
+sum(1+2)
+```
+
